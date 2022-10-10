@@ -16,3 +16,7 @@ version), and attract even more users
 
 • Identify a process that will be tracked in Any.do: an example is a release process, what
 would be the Key performance indicators that you would include in the app?
+
+-------------------------------------------
+SOLUTION:
+Read File: User Personas Case Study - Anydo.pdf
